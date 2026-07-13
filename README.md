@@ -20,36 +20,6 @@
 
 ---
 
-## 🚀 快速开始
-
-### 1. 环境准备
-
-确保你的 Python 版本 ≥ 3.8，然后安装依赖库：
-
-```bash
-pip install customtkinter openai
-```
-
-### 2. 获取 API Key
-
-根据你选择的模型提供商，获取相应的 API Key：
-
-- **OpenAI**：https://platform.openai.com/api-keys
-- **DeepSeek**：https://platform.deepseek.com/api_keys
-- **通义千问**：https://dashscope.aliyun.com/
-- **智谱 GLM**：https://open.bigmodel.cn/
-- **Moonshot**：https://platform.moonshot.cn/
-- **百川**：https://platform.baichuan-ai.com/
-- **本地 Ollama**：无需 Key，但需要先启动 Ollama 服务并加载模型（如 `llama3`）
-
-### 3. 运行程序
-
-```bash
-python main.py
-```
-
----
-
 ## 🎮 使用指南
 
 1. **选择编程语言** —— 在下拉框中选择你的代码语言，AI 会根据语言特性生成针对性注释。
