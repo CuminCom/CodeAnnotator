@@ -38,7 +38,7 @@
 |---------|--------------|
 | `gpt-3.5-turbo`, `gpt-4`, `gpt-4-turbo`, `gpt-4o` | `https://api.openai.com/v1` |
 | `deepseek-v4-flash`, `deepseek-v4-pro` | `https://api.deepseek.com` |
-| `qwen-max`, `qwen-plus`, `qwen-turbo` | `https://dashscope.aliyuncs.com/compatible-mode/v1` |
+| `qwen-max` ,  `qwen-plus` ,  `qwen-turbo` | `https://dashscope.aliyuncs.com/compatible-mode/v1` |
 | `glm-4`, `glm-3-turbo` | `https://open.bigmodel.cn/api/paas/v4` |
 | `moonshot-v1-8k`, `moonshot-v1-32k` | `https://api.moonshot.cn/v1` |
 | `Baichuan4`, `Baichuan3-Turbo` | `https://api.baichuan-ai.com/v1` |
